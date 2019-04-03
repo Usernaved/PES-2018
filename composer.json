@@ -1,0 +1,21 @@
+{
+    "name": "pes-2018-hack/pes-2018-hack-mod-apk-get-unlimited-gold",
+    "description": "PES 2018 Hack Mod APK Get Unlimited Points Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK PES 2018",
+            "homepage": "http://cheat4games.com/generator/PES-2018/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
